@@ -1,12 +1,5 @@
 **Kira's ML Project Website** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
 
-## Setting up your Project Website
-
-### How to change your site logo (optional)
-1. Some themes, such as `jekyll-theme-minimal`, show a logo. In your repository, upload a logo or profile picture to the `assets/IMG/` directory
-2. Open `_config.yml` and modify the line `logo: /assets/IMG/template_logo.png` to point to your new image
-
-***
 
 ## Guide to Adding Content
 * Your repository's `README.md` file (the file you are reading now) acts like a home page. Replace its contents with whatever you want the world to see by editing the file on GitHub.
