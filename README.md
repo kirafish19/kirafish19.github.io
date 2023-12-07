@@ -6,4 +6,4 @@
 
 ***
 
-To view the full write-up of my project, please see [HERE](https://github.com/kirafish19/kirafish19.github.io/blob/main/assets/ML%20Final%20Project.pdf). 
+To view the full write-up of my project, please see [HERE](https://kirafish19.github.io/assets/ML_final_project.pdf)
